@@ -125,3 +125,6 @@ The project uses Tailwind CSS for styling with custom configuration:
 - Patient photo from Unsplash
 - Icons from Lucide React
 - Chart implementation using Chart.js
+
+###
+Happy Coding!❤️
